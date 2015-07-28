@@ -24,4 +24,9 @@
         android:id="@+id/vpn_lockdown"
         android:title="@string/vpn_menu_lockdown"
         android:showAsAction="never" />
+    <item
+        android:id="@+id/vpn_need_password"
+        android:title="@string/vpn_need_password"
+        android:checkable="true"
+        android:showAsAction="never" />
 </menu>
