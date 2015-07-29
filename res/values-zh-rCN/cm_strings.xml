@@ -938,4 +938,20 @@
   <string name="battery_info_status_charging_dock_usb">正在通过基座 USB 充电</string>
   <string name="setup_lock_pattern_size_title">图案复杂程度</string>
   <string name="setup_lock_pattern_size_details">您希望使用多少个节点的图案？节点越多，图案就可以越复杂。</string>
+
+  <!-- Network traffic -->
+  <string name="network_traffic_title">网速显示</string>
+  <string name="show_network_traffic_state">显示模式</string>
+  <string name="show_network_traffic_unit">显示单位</string>
+  <string name="show_network_traffic_frequency">更新间隔</string>
+  <string name="show_network_traffic_disable">不显示</string>
+  <string name="show_network_traffic_up">上传速度</string>
+  <string name="show_network_traffic_down">下载速度</string>
+  <string name="show_network_traffic_all">上传和下载速度</string>
+  <string name="show_network_traffic_bit">比特</string>
+  <string name="show_network_traffic_byte">字节</string>
+  <string name="show_network_traffic_500">0.5 秒</string>
+  <string name="show_network_traffic_1000">1 秒</string>
+  <string name="show_network_traffic_1500">1.5 秒</string>
+  <string name="show_network_traffic_2000">2 秒</string>
 </resources>
