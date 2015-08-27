@@ -1369,6 +1369,7 @@
     <string name="lto_download_data_wifi_only_on">Over any networks</string>
     <string name="lto_download_data_wifi_only_off">Only over Wi\u2011Fi networks</string>
 
+<<<<<<< HEAD
     <!-- Network traffic -->
     <string name="network_traffic_title">Network traffic</string>
     <string name="show_network_traffic_state">Status bar traffic monitor</string>
@@ -1385,6 +1386,7 @@
     <string name="show_network_traffic_1500">1500 ms</string>
     <string name="show_network_traffic_2000">2000 ms</string>
 
+=======
     <!-- Keep screen on strings -->
     <string name="keep_screen_on_never">Never</string>
     <string name="keep_screen_on_debugging">While USB debugging</string>
@@ -1407,4 +1409,5 @@
                  <b>Last update:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
 
     <string name="quick_settings_reset_message">Reset quick settings tiles?</string>
+>>>>>>> cm/cm-12.1
 </resources>
